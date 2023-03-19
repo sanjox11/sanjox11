@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sanjog Kumar.
 - 👀 I’m interested in Web Development ,Artificial Intelligence and Machine Learning. 
-- 🌱 I’m currently learning Web Development.
+- 🌱 I’m currently learning Web dev and Machine Learning.
 - 💞️ I’m looking to collaborate on group projects which uses MERN Techstack.
 - 📫 You can reach to me through my mail ID sanjog.kumar11@gmail.com
 
